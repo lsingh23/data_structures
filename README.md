@@ -1,3 +1,3 @@
-# data structures
+# Data structures
 
 Data Structures Concepts Implemented using Java and GUI
