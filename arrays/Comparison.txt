@@ -1,0 +1,11 @@
+               StudentContainer(array)   V/s      StudentContainer(LinkedList)
+               
+Adding a new student object in LinkedList is easy as compared to  adding a new student object in the    
+StudentConatiner that is built using an array because we don't have to worry about checking the size of the 
+container when we are dealing with LinkedList.We don't need to ensure Capacity before adding an object in the 
+container in case of LinkedList.Also , we have the option to  add the elements always at the head using a Linked
+List which is O(1) and makes the adding process faster than in case of array which is O(n).
+
+StudentContainer using array can also have some advantages over LinkedList container.For example, get(int index)
+method in array container gives the ability to get the access to the element specified at any index in the array.
+while this becomes really  complex function in case of a LinkedList version.
